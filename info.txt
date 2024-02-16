@@ -1,8 +1,3 @@
-Project is based on this video series
-
-MERN Full Stack Project_ Build a Blog App with Dashboard using MERN (jwt, redux toolkit)
-🔴 Building a Full-Stack MERN Blog Application from Scratch 
-
 
 
 
