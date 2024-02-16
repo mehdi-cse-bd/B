@@ -64,7 +64,7 @@ after changes
 git status
 git add . 
 git status
-git commit -m "second commit"
+git commit -m "install react js and tailwind css and create the first template "
 git push 
  
 
