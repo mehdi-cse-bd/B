@@ -1,0 +1,75 @@
+Project is based on this video series
+
+MERN Full Stack Project_ Build a Blog App with Dashboard using MERN (jwt, redux toolkit)
+🔴 Building a Full-Stack MERN Blog Application from Scratch 
+
+
+
+
+Add to Git:: 
+git init
+git add -A
+git commit -m "install react js and tailwind css and create the first template "
+git status
+
+git remote add origin https://github.com/mehdi-cse-bd/B.git
+git branch -M main
+git push -u origin main
+
+
+if something goes wrong
+Remove the Existing Remote::- command is next line
+git remote remove origin
+and delete .git folder from git landing folder জে folder এ git init  কমান্ড দিয়েছি তা delete করতে হবে 
+
+
+This is a cleaned up react app or boiler plate deleted react app, 
+ready to use to build a react project.
+
+
+Used this video to cleanup the react app
+https://www.youtube.com/watch?v=PAqbIbdvTuU&t=137s&ab_channel=h3webdevtuts
+
+---------------------------------------------------------------------------------
+FrontEnd
+
+clt+shit+` to open terminal 
+cd .\frontend 
+npx create-react-app .
+npm start
+npm i axios react-hot-toast react-icons react-toastify react-router-dom react-redux react-quill @reduxjs/toolkit
+---------------------------------------------------------------------------------
+Backend 
+
+clt+shift+`
+cd .\backend 
+npm init -y
+npm i express morgan cors dotenv bcrypt jsonwebtoken cookie-parser body-parser mongoose nodemon
+
+
+---------------------------------------------------------------------------------
+Git part:
+
+First time 
+
+git init  
+git add -A
+git commit -m "first react cleaned"
+git branch -M main
+git remote add origin https://github.com/mehdi-cse-bd/B.git
+git push -u origin main
+....................................................................................
+after changes
+
+git status
+git add . 
+git status
+git commit -m "second commit"
+git push 
+ 
+
+ 
+
+
+
+by MehdiMyMan 
