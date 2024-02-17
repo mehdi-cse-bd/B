@@ -1,22 +1,6 @@
 
 
 
-Add to Git:: 
-git init
-git add -A
-git commit -m "install react js and tailwind css and create the first template "
-git status
-
-git remote add origin https://github.com/mehdi-cse-bd/B.git
-git branch -M main
-git push -u origin main
-
-
-if something goes wrong
-Remove the Existing Remote::- command is next line
-git remote remove origin
-and delete .git folder from git landing folder জে folder এ git init  কমান্ড দিয়েছি তা delete করতে হবে 
-
 
 This is a cleaned up react app or boiler plate deleted react app, 
 ready to use to build a react project.
@@ -43,18 +27,33 @@ npm i express morgan cors dotenv bcrypt jsonwebtoken cookie-parser body-parser m
 
 
 ---------------------------------------------------------------------------------
+
 Git part:
-
-First time 
-
-git init  
+First time add GIT on a project  
+Add to Git:: 
+git init
 git add -A
-git commit -m "first react cleaned"
-git branch -M main
+git commit -m "install react js and tailwind css and create the first template "
+git status
+
 git remote add origin https://github.com/mehdi-cse-bd/B.git
+git branch -M main
 git push -u origin main
+
+
+if something goes wrong
+Remove the Existing Remote::- command is next line
+git remote remove origin
+and delete .git folder from git landing folder জে folder এ git init  কমান্ড দিয়েছি তা delete করতে হবে 
+
+
+
+
+
+
 ....................................................................................
-after changes
+after changes/after something added on the project/
+new addition on a project, do this 
 
 git status
 git add . 
